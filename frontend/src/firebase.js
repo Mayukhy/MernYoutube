@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 // import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey:"AIzaSyCpc7ZklmgZUrQwofJDQnbjRINvWnmm2fQ",
+  apiKey:process.env.API_KEY,
   authDomain: "mytube-6f1c7.firebaseapp.com",
   projectId: "mytube-6f1c7",
   storageBucket: "mytube-6f1c7.appspot.com",
