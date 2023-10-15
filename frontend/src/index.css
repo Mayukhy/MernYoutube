@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.cancelhover:hover{
+    background-color: rgb(86, 83, 83) !important;
+    transition: all 0.3s;
+}
+
+.btnFilter:hover{
+    color: black !important;
+    transition: all 0.3s !important;
+}
+.hoverRadio:hover{
+    color: black !important;
+    transition: all 0.3s !important;
+}
+.hoverBg{
+    transition: all 0.2s;
+}
+.hoverBg:hover{
+    background-color: rgba(49, 45, 45, 0.658) !important;
+    
+}
+.videoShadow{
+    box-shadow: 0px -2px 25px 13px rgba(96, 96, 101, 0.322);
+}
