@@ -11,6 +11,12 @@
 
 ![Mytube2 0 - Google Chrome 10_15_2023 1_45_59 PM](https://github.com/Mayukhy/MernYoutube/assets/107027766/6071bc08-4723-4e50-ac22-64c0eede4528)
 
+![Mytube2 0 - Google Chrome 10_22_2023 9_07_36 AM](https://github.com/Mayukhy/MernYoutube/assets/107027766/9f5da604-4014-4b84-841c-1ec784551649)
+
+![Mytube2 0 - Google Chrome 10_22_2023 9_07_19 AM](https://github.com/Mayukhy/MernYoutube/assets/107027766/bb4e3210-26a0-4ec4-98c0-fec181841cd8)
+
+![Mytube2 0 - Google Chrome 10_22_2023 9_07_09 AM](https://github.com/Mayukhy/MernYoutube/assets/107027766/a959bc01-48e0-4fb8-979b-570950f3f88d)
+
 ![Mytube2 0 - Google Chrome 10_15_2023 1_46_42 PM](https://github.com/Mayukhy/MernYoutube/assets/107027766/cf48df39-469f-40db-81b9-1e9805420df7)
 
 ![Mytube2 0 - Google Chrome 10_15_2023 1_46_08 PM](https://github.com/Mayukhy/MernYoutube/assets/107027766/a1316daa-a740-4866-a80b-6049152108f0)
