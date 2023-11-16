@@ -1,5 +1,9 @@
 # Youtube2.0
 Technologies are used: Nodejs, Reactjs, MongoDb, Tailwind css, MUI
+
+# demo
+https://www.linkedin.com/posts/mayukh-das-536185238_trying-to-make-a-youtube-mern-stack-clone-activity-7119183141373714433-0ezc?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/mayukh-das-536185238_some-features-are-added-to-the-mern-mytube20-activity-7121415890797031424-V4vi?utm_source=share&utm_medium=member_desktop
 # SS
 ![Mytube2 0 - Google Chrome 10_14_2023 9_19_15 PM](https://github.com/Mayukhy/MernYoutube/assets/107027766/b65eb7d5-ed4d-45f1-bdec-de42df4ee673)
 
